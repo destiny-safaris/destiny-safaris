@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://www.destinysafaris.co.ke/</title>
+  <link>https://www.destinysafaris.co.ke/</link>
+
+<item>
+     <link>https://www.destinysafaris.co.ke/</link>
+     <title>Destiny Safaris</title>
+     <description>Destiny Safaris</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.destinysafaris.co.ke/index.html</link>
+     <title>Destiny Safaris</title>
+     <description>Destiny Safaris</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.destinysafaris.co.ke/booking.html</link>
+     <title>Destiny Safaris</title>
+     <description>Destiny Safaris</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
